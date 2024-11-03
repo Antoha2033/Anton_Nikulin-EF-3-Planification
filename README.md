@@ -47,7 +47,7 @@ L'expérience est sensorielle : les utilisateurs déclenchent des effects visuel
 
 
 
-## Scénarimage / Simulation
+## Synoptique
 
 ### Visualisation des séquences
 
@@ -57,7 +57,7 @@ L'expérience est sensorielle : les utilisateurs déclenchent des effects visuel
 
 L'atmosphère est sereine et apaisante, avec des visuels d'eau calme et une musique douce et à peine audible en arrière-plan. Lorsqu'un spectateur interagit, des sons d'eau accompagnent les effects visuelles, créant une dynamique engageante tout en maintenant une harmonie esthétique et sensorielle.
 
-## Synoptique
+## Simulationnn
 
 ### Schéma technique
 
