@@ -6,14 +6,6 @@
 Mon idée est d'un projet artistique qui est une simulation d'eau flottante projetée sur un mur, émettant des sons apaisants et de la musique simple pour créer une expérience paisible. En utilisant un capteur Lidar, lorsque un visiteur touche le mur, des ondulations sont créées dans l'eau pour simuler un effet physique. De plus, des sons d'eau qui coule sont ajoutés pour enrichir l'expérience.
 
 ### Références et inspirations
-<table>
-  <tr>
-    <td><img src="images for water/index.png" alt="Image 1" ></td>
-  </tr>
-  
-</table>
-
-### Exemples:
 
 <table>
   <tr>
@@ -40,6 +32,14 @@ https://www.youtube.com/watch?v=SbYtIiZdrew
 
 
 
+<table>
+  <tr>
+    <td><img src="images for water/index.png" alt="Image 1" ></td>
+  </tr>
+  
+</table>
+
+### Exemples:
 
 
 
