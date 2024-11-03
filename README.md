@@ -6,24 +6,6 @@
 Mon idée est d'un projet artistique qui est une simulation d'eau flottante projetée sur un mur, émettant des sons apaisants et de la musique simple pour créer une expérience paisible. En utilisant un capteur Lidar, lorsque un visiteur touche le mur, des ondulations sont créées dans l'eau pour simuler un effet physique. De plus, des sons d'eau qui coule sont ajoutés pour enrichir l'expérience.
 
 ### Références et inspirations
-Créer une œuvre interactive qui donne aux spectateurs une expérience immersive, leur permettant d'interagir physiquement avec une représentation virtuelle.
-
-Explorer la notion du calme et d'impact humain à travers la nature simulée.
-
-### Motivations
-Montrer comment la technologie peut traduire des sensations physiques dans un espace numérique, en évoquant des sentiments paisibles ou d'intrusion selon la manière dont les spectateurs interagissent.
-
-
-## Scénario interactif
-
-### Déroulement interactif
-
-L'eau flottante projetée représente la nature dans son état intact. Lorsque quelqu'un approche et touche le mur, l'eau est perturbée par des ondulations visuelles, créant une narration subtile sur l'impact de l'humain sur son environnement.
-
-### Logigramme des interactions
-
-L'expérience est sensorielle : les utilisateurs déclenchent des effects visuelles en touchant le mur, tandis que des sons d'eau renforcent l'effet d'interaction. Le système répond non seulement visuellement, mais également auditivement, pour immerger davantage le visiteur dans l'œuvre.
-
 <table>
   <tr>
     <td><img src="images for water/index.png" alt="Image 1" ></td>
@@ -55,6 +37,23 @@ https://iregular.io/fr/work/voix-interieures-beta/
 <iframe title="vimeo-player" src="https://www.youtube.com/watch?v=SbYtIiZdrew" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
 
 https://www.youtube.com/watch?v=SbYtIiZdrew
+
+
+
+
+
+
+
+## Scénario interactif
+
+### Déroulement interactif
+
+L'eau flottante projetée représente la nature dans son état intact. Lorsque quelqu'un approche et touche le mur, l'eau est perturbée par des ondulations visuelles, créant une narration subtile sur l'impact de l'humain sur son environnement.
+
+### Logigramme des interactions
+
+L'expérience est sensorielle : les utilisateurs déclenchent des effects visuelles en touchant le mur, tandis que des sons d'eau renforcent l'effet d'interaction. Le système répond non seulement visuellement, mais également auditivement, pour immerger davantage le visiteur dans l'œuvre.
+
 
 
 ## Scénarimage / Simulation
