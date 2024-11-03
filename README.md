@@ -17,11 +17,6 @@ Mon idée est d'un projet artistique qui est une simulation d'eau flottante proj
     <td><img src="images for water/3.jpg" alt="Image 3" ></td>
     <td><img src="images for water/4.jpg" alt="Image 4" ></td>
   </tr>
-    
-  <tr>
-    <td><img src="images for water/5.jpg" alt="Image 5" ></td>
-    <td><img src="images for water/6.jpg" alt="Image 6" ></td>
-  </tr>
 </table>
 
 https://iregular.io/fr/work/voix-interieures-beta/
@@ -32,14 +27,7 @@ https://www.youtube.com/watch?v=SbYtIiZdrew
 
 
 
-<table>
-  <tr>
-    <td><img src="images for water/index.png" alt="Image 1" ></td>
-  </tr>
-  
-</table>
 
-### Exemples:
 
 
 
@@ -48,11 +36,14 @@ https://www.youtube.com/watch?v=SbYtIiZdrew
 
 ### Déroulement interactif
 
-L'eau flottante projetée représente la nature dans son état intact. Lorsque quelqu'un approche et touche le mur, l'eau est perturbée par des ondulations visuelles, créant une narration subtile sur l'impact de l'humain sur son environnement.
+L'expérience est sensorielle : les utilisateurs déclenchent des effects visuelles en touchant le mur, tandis que des sons d'eau renforcent l'effet d'interaction. Le système répond non seulement visuellement, mais également auditivement, pour immerger davantage le visiteur dans l'œuvre.
 
 ### Logigramme des interactions
-
-L'expérience est sensorielle : les utilisateurs déclenchent des effects visuelles en touchant le mur, tandis que des sons d'eau renforcent l'effet d'interaction. Le système répond non seulement visuellement, mais également auditivement, pour immerger davantage le visiteur dans l'œuvre.
+<table>
+  <tr>
+    <td><img src="images for water/index.png" alt="Image 1" ></td>
+  </tr>
+</table>
 
 
 
