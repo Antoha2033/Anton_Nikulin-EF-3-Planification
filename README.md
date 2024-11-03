@@ -1,11 +1,11 @@
 # Scénariser-Toucher de marée
 
-## Idée
+## Concept
 
-### Communiquer une idée
+### Présentation du concept
 Mon idée est d'un projet artistique qui est une simulation d'eau flottante projetée sur un mur, émettant des sons apaisants et de la musique simple pour créer une expérience paisible. En utilisant un capteur Lidar, lorsque un visiteur touche le mur, des ondulations sont créées dans l'eau pour simuler un effet physique. De plus, des sons d'eau qui coule sont ajoutés pour enrichir l'expérience.
 
-### Objectifs
+### Références et inspirations
 Créer une œuvre interactive qui donne aux spectateurs une expérience immersive, leur permettant d'interagir physiquement avec une représentation virtuelle.
 
 Explorer la notion du calme et d'impact humain à travers la nature simulée.
@@ -14,13 +14,13 @@ Explorer la notion du calme et d'impact humain à travers la nature simulée.
 Montrer comment la technologie peut traduire des sensations physiques dans un espace numérique, en évoquant des sentiments paisibles ou d'intrusion selon la manière dont les spectateurs interagissent.
 
 
-## Scénario
+## Scénario interactif
 
-### La trame narrative:
+### Déroulement interactif
 
 L'eau flottante projetée représente la nature dans son état intact. Lorsque quelqu'un approche et touche le mur, l'eau est perturbée par des ondulations visuelles, créant une narration subtile sur l'impact de l'humain sur son environnement.
 
-### Expérience Utilisateur:
+### Logigramme des interactions
 
 L'expérience est sensorielle : les utilisateurs déclenchent des effects visuelles en touchant le mur, tandis que des sons d'eau renforcent l'effet d'interaction. Le système répond non seulement visuellement, mais également auditivement, pour immerger davantage le visiteur dans l'œuvre.
 
@@ -57,12 +57,34 @@ https://iregular.io/fr/work/voix-interieures-beta/
 https://www.youtube.com/watch?v=SbYtIiZdrew
 
 
-## Ambiances
+## Scénarimage / Simulation
+
+### Visualisation des séquences
+
+### Illustrations des interactions
+
+### Évolution visuelle et narrative
 
 L'atmosphère est sereine et apaisante, avec des visuels d'eau calme et une musique douce et à peine audible en arrière-plan. Lorsqu'un spectateur interagit, des sons d'eau accompagnent les effects visuelles, créant une dynamique engageante tout en maintenant une harmonie esthétique et sensorielle.
 
+## Synoptique
 
-## Technologies
+### Schéma technique
+
+### Flux de données
+
+
+## Plantation
+
+### Emplacement des dispositifs
+
+### Circulation des visiteurs
+
+### Gestion des câblages
+
+## besoins matériels et logiciels
+
+
 
 TouchDesigner sera l'outil principal utilisé pour créer cette œuvre. Ce logiciel permettra de générer en temps réel les visuels de l'eau et de gérer les interactions détectées par le lidar.
 
