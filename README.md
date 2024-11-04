@@ -52,8 +52,6 @@ L'expérience est sensorielle : les utilisateurs déclenchent des effects visuel
 
 * https://iregular.io/fr/work/voix-interieures-beta/
 
-* "https://www.youtube.com/watch?v=SbYtIiZdrew
-
 * https://www.youtube.com/watch?v=SbYtIiZdrew
 
 ## Devis
