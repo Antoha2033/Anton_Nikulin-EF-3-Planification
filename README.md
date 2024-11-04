@@ -14,6 +14,7 @@
 ### Fourni par l'artiste
 * 1 X scanner Lidar
 * 1-2 X Cables de conections
+* 1 X Adapteur
 
 
 
