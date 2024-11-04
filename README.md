@@ -6,6 +6,11 @@
   </tr>
 </table>
 
+## Concept
+
+### Présentation du concept
+Mon idée est d'un projet artistique qui est une simulation d'eau flottante projetée sur un mur, émettant des sons apaisants et de la musique simple pour créer une expérience paisible. En utilisant un capteur Lidar, lorsque un visiteur touche le mur, des ondulations sont créées dans l'eau pour simuler un effet physique. De plus, des sons d'eau qui coule sont ajoutés pour enrichir l'expérience.
+
 ## Devis
 
 ### Fourni par l'école
@@ -60,10 +65,7 @@
   </tr>
 </table>
 
-## Concept
 
-### Présentation du concept
-Mon idée est d'un projet artistique qui est une simulation d'eau flottante projetée sur un mur, émettant des sons apaisants et de la musique simple pour créer une expérience paisible. En utilisant un capteur Lidar, lorsque un visiteur touche le mur, des ondulations sont créées dans l'eau pour simuler un effet physique. De plus, des sons d'eau qui coule sont ajoutés pour enrichir l'expérience.
 
 ### Références et inspirations
 
