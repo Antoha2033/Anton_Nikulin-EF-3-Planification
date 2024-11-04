@@ -108,19 +108,15 @@ L'expérience est sensorielle : les utilisateurs déclenchent des effects visuel
 * Les documents Touchdesigner
 * Les documents Sonores
 
-### Emplacement des dispositifs
 
-### Circulation des visiteurs
+## Circulation des visiteurs
+L'œuvre d'art permettrait à plusieurs visiteurs de s'engager, mais pour une expérience agréable et fluide, une poignée (5) de personnes devraient se trouver devant le mur à la fois.
 
-### Gestion des câblages
+## Logiciel
+* Les documents Sonores
+* * Les documents Sonores
 
-## besoins matériels et logiciels
 
-
-
-TouchDesigner sera l'outil principal utilisé pour créer cette œuvre. Ce logiciel permettra de générer en temps réel les visuels de l'eau et de gérer les interactions détectées par le lidar.
-
-Les projecteurs afficheront une surface d'eau sur un mur blanc, et un scanner lidar sera utilisé pour détecter les visiteurs. Lorsque le lidar détecte une main, TouchDesigner gérera la création d'ondulations dans la zone touchée et jouera les sons d'eau correspondants.
 
 
 
