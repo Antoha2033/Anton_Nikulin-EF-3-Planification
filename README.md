@@ -44,7 +44,7 @@ Montrer comment la technologie peut traduire des sensations physiques dans un es
 <table>
   <tr>
     <td><img src="images for water/Render1.png" alt="Image 1" ></td>
-    <<td><img src="images for water/Render1.png" alt="Image 2" ></td>
+    <<td><img src="images for water/Render2.png" alt="Image 2" ></td>
   </tr>
     
   <tr>
