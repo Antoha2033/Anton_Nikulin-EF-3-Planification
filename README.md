@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td><img src="images for water/1.jpg" alt="Image 1" ></td>
+    <td><img src="images for water/Screenshot 2024-11-03 210253.png" alt="Image 1" ></td>
   </tr>
 </table>
 
