@@ -37,8 +37,8 @@ Montrer comment la technologie peut traduire des sensations physiques dans un es
 * 1 X Adapteur
 
 ### Programes
-* Les files Touchdesigner
-* Les files Sonores
+* Les documents Touchdesigner
+* Les documents Sonores
 
 
 
