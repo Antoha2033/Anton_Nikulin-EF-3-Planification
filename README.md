@@ -36,7 +36,7 @@ L'expérience est sensorielle : les utilisateurs déclenchent des effects visuel
   
 </table>
 
-### Exemples:
+### Références et inspirations
 
 <table>
   <tr>
@@ -49,6 +49,12 @@ L'expérience est sensorielle : les utilisateurs déclenchent des effects visuel
     <td><img src="images for water/4.jpg" alt="Image 4" ></td>
   </tr>
 </table>
+
+https://iregular.io/fr/work/voix-interieures-beta/
+
+<iframe title="vimeo-player" src="https://www.youtube.com/watch?v=SbYtIiZdrew" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+
+https://www.youtube.com/watch?v=SbYtIiZdrew
 
 ## Devis
 
@@ -104,27 +110,6 @@ L'expérience est sensorielle : les utilisateurs déclenchent des effects visuel
   </tr>
 </table>
 
-
-
-### Références et inspirations
-
-<table>
-  <tr>
-    <td><img src="images for water/1.jpg" alt="Image 1" ></td>
-    <<td><img src="images for water/2.jpg" alt="Image 2" ></td>
-  </tr>
-    
-  <tr>
-    <td><img src="images for water/3.jpg" alt="Image 3" ></td>
-    <td><img src="images for water/4.jpg" alt="Image 4" ></td>
-  </tr>
-</table>
-
-https://iregular.io/fr/work/voix-interieures-beta/
-
-<iframe title="vimeo-player" src="https://www.youtube.com/watch?v=SbYtIiZdrew" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
-
-https://www.youtube.com/watch?v=SbYtIiZdrew
 
 
 
