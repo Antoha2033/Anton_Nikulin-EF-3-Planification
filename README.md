@@ -100,7 +100,7 @@ L'expérience est sensorielle : les utilisateurs déclenchent des effects visuel
 * 1 X Ordinateur 
 
 ### Fourni par l'artiste
-* 1 X Scanner Lidar ( youyeetoo RPLIDAR A2M12 360 Degree Lidar Scanner )
+* 1 X [Lidar](https://www.amazon.ca/youyeetoo-RPLIDAR-Scanner-Measuring-Distance/dp/B0B46MG65X) 
 * 1-2 X Cables de conections
 * 1 X Adapteur
 
