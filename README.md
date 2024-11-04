@@ -61,11 +61,6 @@ Montrer comment la technologie peut traduire des sensations physiques dans un es
 </table>
 
 
-### Schéma technique
-
-### Flux de données
-
-
 ## Plantation
 <table>
   <tr>
