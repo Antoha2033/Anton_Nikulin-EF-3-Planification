@@ -19,6 +19,37 @@ Explorer la notion du calme et d'impact humain à travers la nature simulée.
 ### Motivations
 Montrer comment la technologie peut traduire des sensations physiques dans un espace numérique, en évoquant des sentiments paisibles ou d'intrusion selon la manière dont les spectateurs interagissent.
 
+## Scénario
+
+### La trame narrative:
+
+L'eau flottante projetée représente la nature dans son état intact. Lorsque quelqu'un approche et touche le mur, l'eau est perturbée par des ondulations visuelles, créant une narration subtile sur l'impact de l'humain sur son environnement.
+
+### Expérience Utilisateur:
+
+L'expérience est sensorielle : les utilisateurs déclenchent des effects visuelles en touchant le mur, tandis que des sons d'eau renforcent l'effet d'interaction. Le système répond non seulement visuellement, mais également auditivement, pour immerger davantage le visiteur dans l'œuvre.
+
+<table>
+  <tr>
+    <td><img src="images for water/index.png" alt="Image 1" ></td>
+  </tr>
+  
+</table>
+
+### Exemples:
+
+<table>
+  <tr>
+    <td><img src="images for water/1.jpg" alt="Image 1" ></td>
+    <<td><img src="images for water/2.jpg" alt="Image 2" ></td>
+  </tr>
+    
+  <tr>
+    <td><img src="images for water/3.jpg" alt="Image 3" ></td>
+    <td><img src="images for water/4.jpg" alt="Image 4" ></td>
+  </tr>
+</table>
+
 ## Devis
 
 ### Fourni par l'école
@@ -96,7 +127,6 @@ https://iregular.io/fr/work/voix-interieures-beta/
 https://www.youtube.com/watch?v=SbYtIiZdrew
 
 
-## Scénario interactif
 
 ### Déroulement interactif
 
