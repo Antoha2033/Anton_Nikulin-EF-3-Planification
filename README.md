@@ -93,7 +93,7 @@ L'expérience est sensorielle : les utilisateurs déclenchent des effects visuel
 * 1 x Câblage Ethernet
 * 2 X [Haut-parleur](https://www.genelec.com/8040b)
 * Matériel requis pour maintenir en place les Speakers et leurs câbles
-* 1 X Projecteur Vidéo
+* 1 X [Projecteur](https://www.amazon.ca/Epson-EX3280-Projector-Brightness-Speaker/dp/B09GQSK1BK)
 * 3-6 X Cables HDMI
 * 1-2 X Cables de conections
 * Plusieurs câbles d'alimentation
