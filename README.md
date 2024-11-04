@@ -1,5 +1,11 @@
 # Scénariser-Toucher de marée
 
+<table>
+  <tr>
+    <td><img src="images for water/1.jpg" alt="Image 1" ></td>
+  </tr>
+</table>
+
 ## Devis
 
 ### Fourni par l'école
