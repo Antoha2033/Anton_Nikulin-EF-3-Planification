@@ -39,7 +39,7 @@ L'expérience est sensorielle : les utilisateurs déclenchent des effects visuel
   </tr>
 </table>
 
-## Simulationnn
+## Simulation
 <table>
   <tr>
     <td><img src="images for water/Render1.png" alt="Image 1" ></td>
@@ -59,12 +59,6 @@ L'expérience est sensorielle : les utilisateurs déclenchent des effects visuel
     <td><img src="images for water/syno.png" alt="Image 1" ></td>
   </tr>
 </table>
-
-### Visualisation des séquences
-
-### Illustrations des interactions
-
-### Évolution visuelle et narrative
 
 L'atmosphère est sereine et apaisante, avec des visuels d'eau calme et une musique douce et à peine audible en arrière-plan. Lorsqu'un spectateur interagit, des sons d'eau accompagnent les effects visuelles, créant une dynamique engageante tout en maintenant une harmonie esthétique et sensorielle.
 
