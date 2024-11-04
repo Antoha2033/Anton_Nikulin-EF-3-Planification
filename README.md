@@ -26,12 +26,6 @@ https://iregular.io/fr/work/voix-interieures-beta/
 https://www.youtube.com/watch?v=SbYtIiZdrew
 
 
-
-
-
-
-
-
 ## Scénario interactif
 
 ### Déroulement interactif
