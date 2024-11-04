@@ -93,7 +93,7 @@ L'expérience est sensorielle : les utilisateurs déclenchent des effects visuel
 * 1 x Câblage Ethernet
 * 2 X [Haut-parleur](https://www.genelec.com/8040b)
 * Matériel requis pour maintenir en place les Speakers et leurs câbles
-* 1 X [Projecteur](https://www.amazon.ca/Epson-EX3280-Projector-Brightness-Speaker/dp/B09GQSK1BK)
+* 1 X [Projecteur]([https://www.amazon.ca/Epson-EX3280-Projector-Brightness-Speaker/dp/B09GQSK1BK](https://www.amazon.ca/Epson-Home-Cinema-1080p-Projector/dp/B08LQLVGWB/ref=sr_1_1_sspa?crid=3CO1AX6DM5LCD&dib=eyJ2IjoiMSJ9.mC-_W3v4WoqvGEzbk6JwGk-6j9ZxIrvYAtV_sRUMhpK1LwrU2Ad54oZW72EQ8LiMwid98FRBxonLahUEYSEPuQeIB6fwqYx8Ye4lirYuDlZwCH8k1WlFhb_lntURShnk6TtHGzobUSX65L5f1nUBCdRXJ7KUt_aM7z3xm6nOYf9H-rZ4klj1r2WOjlrBKOOs5bfZIx6scSTELCevEjVyC3aOgmXJvvn-GozI4eJrYnTachGTz02ZxenyDrjHj25KHTAjXpINVEdMQAd8mKzpG3gM48V9xGl5fpLdXf29_JA.GcMnJzyZisd88VykCt30nYr4x4cCo0yq2aS7mjSmJiA&dib_tag=se&keywords=Projector&qid=1730739848&refinements=p_n_feature_fifteen_browse-bin%3A30302401011&rnid=30302368011&s=electronics&sprefix=projector%2Celectronics%2C52&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1))
 * 3-6 X Cables HDMI
 * 1-2 X Cables de conections
 * Plusieurs câbles d'alimentation
