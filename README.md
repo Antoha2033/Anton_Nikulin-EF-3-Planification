@@ -56,7 +56,7 @@ Montrer comment la technologie peut traduire des sensations physiques dans un es
 
 <table>
   <tr>
-    <td><img src="images for water/syno.png" alt="Image 1" ></td>
+    <td><img src="images for water/Syno.png" alt="Image 1" ></td>
   </tr>
 </table>
 
