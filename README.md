@@ -54,30 +54,6 @@ L'expérience est sensorielle : les utilisateurs déclenchent des effects visuel
 
 * https://www.youtube.com/watch?v=SbYtIiZdrew
 
-## Devis
-
-### Fourni par l'école
-* 1 x Câblage Ethernet
-* 2 X Haut-parleurs 
-* Matériel requis pour maintenir en place les Speakers et leurs câbles
-* 1 X Projecteur Vidéo
-* 3-6 X Cables HDMI
-* 1-2 X Cables de conections
-* Plusieurs câbles d'alimentation
-* 1 X Ordinateur 
-
-### Fourni par l'artiste
-* 1 X Scanner Lidar ( youyeetoo RPLIDAR A2M12 360 Degree Lidar Scanner )
-* 1-2 X Cables de conections
-* 1 X Adapteur
-
-### Programes
-* Les documents Touchdesigner
-* Les documents Sonores
-
-
-
-
 
 ## Simulation
 <table>
@@ -111,16 +87,26 @@ L'expérience est sensorielle : les utilisateurs déclenchent des effects visuel
 
 
 
-### Déroulement interactif
+## Devis
 
-L'expérience est sensorielle : les utilisateurs déclenchent des effects visuelles en touchant le mur, tandis que des sons d'eau renforcent l'effet d'interaction. Le système répond non seulement visuellement, mais également auditivement, pour immerger davantage le visiteur dans l'œuvre.
+### Fourni par l'école
+* 1 x Câblage Ethernet
+* 2 X Haut-parleurs 
+* Matériel requis pour maintenir en place les Speakers et leurs câbles
+* 1 X Projecteur Vidéo
+* 3-6 X Cables HDMI
+* 1-2 X Cables de conections
+* Plusieurs câbles d'alimentation
+* 1 X Ordinateur 
 
-### Logigramme des interactions
-<table>
-  <tr>
-    <td><img src="images for water/index.png" alt="Image 1" ></td>
-  </tr>
-</table>
+### Fourni par l'artiste
+* 1 X Scanner Lidar ( youyeetoo RPLIDAR A2M12 360 Degree Lidar Scanner )
+* 1-2 X Cables de conections
+* 1 X Adapteur
+
+### Programes
+* Les documents Touchdesigner
+* Les documents Sonores
 
 ### Emplacement des dispositifs
 
