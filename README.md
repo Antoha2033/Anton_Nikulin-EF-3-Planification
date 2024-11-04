@@ -82,6 +82,11 @@ L'atmosphère est sereine et apaisante, avec des visuels d'eau calme et une musi
 
 
 ## Plantation
+<table>
+  <tr>
+    <td><img src="images for water/plan.png" alt="Image 1" ></td>
+  </tr>
+</table>
 
 ### Emplacement des dispositifs
 
