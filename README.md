@@ -104,11 +104,6 @@ L'expérience est sensorielle : les utilisateurs déclenchent des effects visuel
 * 1-2 X Cables de conections
 * 1 X Adapteur
 
-### Programes
-* Les documents Touchdesigner
-* Les documents Sonores
-
-
 ## Circulation des visiteurs
 L'œuvre d'art permettrait à plusieurs visiteurs de s'engager, mais pour une expérience agréable et fluide, une poignée (5) de personnes devraient se trouver devant le mur à la fois.
 
