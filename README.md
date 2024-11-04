@@ -23,9 +23,6 @@
   </tr>
 </table>
 
-L'atmosphère est sereine et apaisante, avec des visuels d'eau calme et une musique douce et à peine audible en arrière-plan. Lorsqu'un spectateur interagit, des sons d'eau accompagnent les effects visuelles, créant une dynamique engageante tout en maintenant une harmonie esthétique et sensorielle.
-
-
 
 ### Schéma technique
 
