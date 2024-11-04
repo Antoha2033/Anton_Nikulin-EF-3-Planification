@@ -28,6 +28,7 @@ Montrer comment la technologie peut traduire des sensations physiques dans un es
 * 1 X Projecteur Vidéo
 * 3-6 X Cables HDMI
 * 1-2 X Cables de conections
+* Plusieurs câbles d'alimentation
 * 1 X Ordinateur 
 
 ### Fourni par l'artiste
