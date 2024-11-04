@@ -22,9 +22,9 @@ Montrer comment la technologie peut traduire des sensations physiques dans un es
 ## Devis
 
 ### Fourni par l'école
-* 1 x Câblage Ethernet slim
+* 1 x Câblage Ethernet
 * 2 X Haut-parleurs 
-* Matériel requis pour brancher la sortie audio du projecteur au systeme de sonorisation
+* Matériel requis pour maintenir en place les Speakers et leurs câbles
 * 1 X Projecteur Vidéo
 * 3-6 X Cables HDMI
 * 1-2 X Cables de conections
@@ -32,9 +32,13 @@ Montrer comment la technologie peut traduire des sensations physiques dans un es
 * 1 X Ordinateur 
 
 ### Fourni par l'artiste
-* 1 X scanner Lidar
+* 1 X Scanner Lidar ( youyeetoo RPLIDAR A2M12 360 Degree Lidar Scanner )
 * 1-2 X Cables de conections
 * 1 X Adapteur
+
+### Programes
+* Les files Touchdesigner
+* Les files Sonores
 
 
 
