@@ -51,7 +51,7 @@ L'expérience est sensorielle : les utilisateurs déclenchent des effects visuel
 
 <table>
   <tr>
-    <td><img src="images for water/Syno.png" alt="Image 1" ></td>
+    <td><img src="images for water/syno.png" alt="Image 1" ></td>
   </tr>
 </table>
 
