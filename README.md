@@ -49,6 +49,12 @@ L'expérience est sensorielle : les utilisateurs déclenchent des effects visuel
 
 ## Synoptique
 
+<table>
+  <tr>
+    <td><img src="images for water/Syno.png" alt="Image 1" ></td>
+  </tr>
+</table>
+
 ### Visualisation des séquences
 
 ### Illustrations des interactions
