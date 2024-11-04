@@ -29,6 +29,9 @@ L'eau flottante projetée représente la nature dans son état intact. Lorsque q
 
 L'expérience est sensorielle : les utilisateurs déclenchent des effects visuelles en touchant le mur, tandis que des sons d'eau renforcent l'effet d'interaction. Le système répond non seulement visuellement, mais également auditivement, pour immerger davantage le visiteur dans l'œuvre.
 
+## Circulation des visiteurs
+L'œuvre d'art permettrait à plusieurs visiteurs de s'engager, mais pour une expérience agréable et fluide, une poignée (5) de personnes devraient se trouver devant le mur à la fois.
+
 <table>
   <tr>
     <td><img src="images for water/index.png" alt="Image 1" ></td>
@@ -103,9 +106,6 @@ L'expérience est sensorielle : les utilisateurs déclenchent des effects visuel
 * 1 X [Lidar](https://www.amazon.ca/youyeetoo-RPLIDAR-Scanner-Measuring-Distance/dp/B0B46MG65X) 
 * 1-2 X Cables de conections
 * 1 X Adapteur
-
-## Circulation des visiteurs
-L'œuvre d'art permettrait à plusieurs visiteurs de s'engager, mais pour une expérience agréable et fluide, une poignée (5) de personnes devraient se trouver devant le mur à la fois.
 
 ## Logiciel
 * Touch Designer
