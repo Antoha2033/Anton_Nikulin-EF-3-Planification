@@ -91,7 +91,7 @@ L'expérience est sensorielle : les utilisateurs déclenchent des effects visuel
 
 ### Fourni par l'école
 * 1 x Câblage Ethernet
-* 2 X Haut-parleurs 
+* 2 X [Haut-parleur](https://www.genelec.com/8040b)
 * Matériel requis pour maintenir en place les Speakers et leurs câbles
 * 1 X Projecteur Vidéo
 * 3-6 X Cables HDMI
