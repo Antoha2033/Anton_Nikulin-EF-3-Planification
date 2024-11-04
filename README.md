@@ -1,5 +1,44 @@
 # Scénariser-Toucher de marée
 
+
+
+## Simulation
+<table>
+  <tr>
+    <td><img src="images for water/Render1.png" alt="Image 1" ></td>
+    <<td><img src="images for water/Render1.png" alt="Image 2" ></td>
+  </tr>
+    
+  <tr>
+    <td><img src="images for water/Render3.png" alt="Image 3" ></td>
+    <td><img src="images for water/Render4.png" alt="Image 4" ></td>
+  </tr>
+</table>
+
+## Synoptique
+
+<table>
+  <tr>
+    <td><img src="images for water/syno.png" alt="Image 1" ></td>
+  </tr>
+</table>
+
+L'atmosphère est sereine et apaisante, avec des visuels d'eau calme et une musique douce et à peine audible en arrière-plan. Lorsqu'un spectateur interagit, des sons d'eau accompagnent les effects visuelles, créant une dynamique engageante tout en maintenant une harmonie esthétique et sensorielle.
+
+
+
+### Schéma technique
+
+### Flux de données
+
+
+## Plantation
+<table>
+  <tr>
+    <td><img src="images for water/plan.png" alt="Image 1" ></td>
+  </tr>
+</table>
+
 ## Concept
 
 ### Présentation du concept
@@ -39,43 +78,6 @@ L'expérience est sensorielle : les utilisateurs déclenchent des effects visuel
   </tr>
 </table>
 
-## Simulation
-<table>
-  <tr>
-    <td><img src="images for water/Render1.png" alt="Image 1" ></td>
-    <<td><img src="images for water/Render1.png" alt="Image 2" ></td>
-  </tr>
-    
-  <tr>
-    <td><img src="images for water/Render3.png" alt="Image 3" ></td>
-    <td><img src="images for water/Render4.png" alt="Image 4" ></td>
-  </tr>
-</table>
-
-## Synoptique
-
-<table>
-  <tr>
-    <td><img src="images for water/syno.png" alt="Image 1" ></td>
-  </tr>
-</table>
-
-L'atmosphère est sereine et apaisante, avec des visuels d'eau calme et une musique douce et à peine audible en arrière-plan. Lorsqu'un spectateur interagit, des sons d'eau accompagnent les effects visuelles, créant une dynamique engageante tout en maintenant une harmonie esthétique et sensorielle.
-
-
-
-### Schéma technique
-
-### Flux de données
-
-
-## Plantation
-<table>
-  <tr>
-    <td><img src="images for water/plan.png" alt="Image 1" ></td>
-  </tr>
-</table>
-
 ### Emplacement des dispositifs
 
 ### Circulation des visiteurs
@@ -91,8 +93,4 @@ TouchDesigner sera l'outil principal utilisé pour créer cette œuvre. Ce logic
 Les projecteurs afficheront une surface d'eau sur un mur blanc, et un scanner lidar sera utilisé pour détecter les visiteurs. Lorsque le lidar détecte une main, TouchDesigner gérera la création d'ondulations dans la zone touchée et jouera les sons d'eau correspondants.
 
 
-  <tr>
-    <td><img src="images for water/7.jpg" alt="Image 5" ></td>
-    <td><img src="images for water/8.jpg" alt="Image 6" ></td>
-  </tr>
 
