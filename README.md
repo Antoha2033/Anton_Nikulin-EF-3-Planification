@@ -113,8 +113,10 @@ L'expérience est sensorielle : les utilisateurs déclenchent des effects visuel
 L'œuvre d'art permettrait à plusieurs visiteurs de s'engager, mais pour une expérience agréable et fluide, une poignée (5) de personnes devraient se trouver devant le mur à la fois.
 
 ## Logiciel
-* Les documents Sonores
-* * Les documents Sonores
+* Touch Designer
+* Reaper
+* Visual Studio Community 2022
+* Arduino
 
 
 
